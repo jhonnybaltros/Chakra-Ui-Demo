@@ -10,9 +10,10 @@ npm run dev
 yarn dev
 ```
 
-![Screenshot](light.png)
-
-![Screenshot](dark.png)
+<div>
+  <img src="public/images/dark.png">
+  <img src="public/images/light.png" width="350" alt="accessibility text">
+</div>
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
