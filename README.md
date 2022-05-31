@@ -12,7 +12,7 @@ yarn dev
 
 <div>
   <img src="public/images/dark.png">
-  <img src="public/images/light.png" width="350" alt="accessibility text">
+  <img src="public/images/light.png">
 </div>
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
